@@ -1,5 +1,5 @@
 <h1>Curso JavaScript</h1>
 
 <p>
-    Repositori curso JavaScript Udemu, Cod3r.
+    Repositorio curso JavaScript Udemy, Cod3r.
 </p>
